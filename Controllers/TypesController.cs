@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace AnimalShelter.Controllers
 {
-  public class TypeController : Controller
+  public class TypesController : Controller
   {
     private readonly AnimalShelterContext _db; // declare priave readonly AnimalShelterContext
 

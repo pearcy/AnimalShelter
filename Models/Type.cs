@@ -8,7 +8,7 @@ namespace AnimalShelter.Models
 
     public string DateOfAdmittance {get; set;}
 
-    public string Breed {get; set;}; 
+    public string Breed {get; set;}
 
     public string Name {get; set;}
 
